@@ -1,7 +1,7 @@
 #!/usr/bin/env/ python
 # _*_ coding:utf-8 _*_
 
-__author__ = 'Jim Yang'1111
+__author__ = 'Jim Yang'
 
 '''
 async web application
